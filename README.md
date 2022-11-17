@@ -9,7 +9,6 @@
 - 📫 How to reach me: xingyu3906@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hxyv&hide=html)
-
 ![hxyv's github stats](https://github-readme-stats.vercel.app/api?username=hxyv&show_icons=true&count_private=true&line_height=40)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hxyv.readme)
