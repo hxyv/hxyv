@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning bioinformatics
 - 📫 How to reach me: xingyu3906@gmail.com
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hxyv&hide=html)
+
 ![info](https://github-readme-stats.vercel.app/api?username=hxyv&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hxyv.readme)
