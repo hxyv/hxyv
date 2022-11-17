@@ -10,7 +10,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hxyv&hide=html)
 
-![info](https://github-readme-stats.vercel.app/api?username=hxyv&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![hxyv's github stats](https://github-readme-stats.vercel.app/api?username=hxyv&show_icons=true&count_private=true&line_height=40)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hxyv.readme)
 ![](http://antzuhl.cn:4000/get/@hxyv.readme)
